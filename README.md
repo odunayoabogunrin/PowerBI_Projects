@@ -1,6 +1,7 @@
 # PowerBI_Projects
-
-#Business Problem
+ 
+**HR WORKFORCE ANALYTICS DASHBOARD**
+**Business Problem
 
 HR team lacked a centralized view of recruitment performance and hiring trends.
 
