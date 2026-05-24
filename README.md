@@ -1,11 +1,14 @@
 # PowerBI_Projects
  
-**HR WORKFORCE ANALYTICS DASHBOARD**
-**Business Problem
+**RECRUITMENT ANALYTICS DASHBOARD**
+
+
+***Business Problem***
 
 HR team lacked a centralized view of recruitment performance and hiring trends.
 
-#Solution
+***Solution***
+Built an interactive recruitment analytics dashboard in Power BI to track hiring KPIs including positions filled, application volumes, hiring completion rates, recruiter performance, and hiring timelines.
 
-Built an interactive recruitment analytics dashboard in Power BI to provide real-time
-insights into 
+***Impact***
+Improved visibility into recruitment KPIs and enabled faster workforce reporting.
