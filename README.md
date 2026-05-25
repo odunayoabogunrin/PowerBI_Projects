@@ -1,4 +1,4 @@
-# RECRUITMENT ANALYTICS DASHBOARD
+# Recruitment Analytics Dashboard
 
 ## Overview
 
@@ -55,231 +55,220 @@ The main objectives of this project are to:
 
 - Analyze hiring trends and timelines
 
-Track open vs completed positions
+- Track open vs completed positions
 
-Evaluate recruiter and department performance
+- Evaluate recruiter and department performance
 
-Identify effective candidate sourcing channels
+- Identify effective candidate sourcing channels
 
-Improve hiring completion rates
+- Improve hiring completion rates
 
-Enable faster HR decision-making
-
-Key Features
+- Enable faster HR decision-making
 
 
-1. Executive KPI Cards
+## Key Features
 
+**1. Executive KPI Cards**
 
 The dashboard includes high-level recruitment metrics such as:
 
-Total Positions
+- Total Positions
 
-Total Applications
+- Total Applications
 
-Total Hires
+- Total Hires
 
-Hiring Completion Percentage
+- Hiring Completion Percentage
 
-2. Hiring Status Analysis
-
+**2. Hiring Status Analysis**
 
 Visualizes:
 
-Hires completed by business unit
+- Hires completed by business unit
 
-Position fulfillment status
+- Position fulfillment status
 
-Over-hired vs under-hired departments
+- Over-hired vs under-hired departments
 
-Remaining hiring balance
+- Remaining hiring balance
 
-3. Recruitment Timeline Analysis
-
+**3. Recruitment Timeline Analysis**
 
 Tracks:
 
-Applications over time
+- Applications over time
 
-Hiring trends across weeks
+- Hiring trends across weeks
 
-Recruitment pipeline progression
+- Recruitment pipeline progression
 
-Time-to-hire insights
+-Time-to-hire insights
 
-4. Candidate Source Analysis
+**4. Candidate Source Analysis**
 
 
 Analyzes candidate inflow from:
 
-LinkedIn
+- LinkedIn
 
-Naukri
+- Naukri
 
-Monster
+- Monster
 
-Referral platforms
+- Referral platforms
 
-Other sourcing channels
-
+- Other sourcing channels
 
 
 This helps HR identify the most effective recruitment platforms.
 
-5. Recruiter Performance Monitoring
 
+**5. Recruiter Performance Monitoring**
 
 Enables comparison of:
 
-Recruiter workload
+- Recruiter workload
 
-Hiring efficiency
+- Hiring efficiency
 
-Position closure rates
+- Position closure rates
 
-Recruitment productivity
+- Recruitment productivity
 
-6. Interactive Filtering
 
+**6. Interactive Filtering**
 
 Users can dynamically filter data by:
 
-Level/Band
+- Level/Band
 
-Recruiter
+- Recruiter
 
-Department
+- Department
 
-Location
+- Location
 
-Status
+- Status
 
-Hiring Type
+- Hiring Type
 
-Time Period
+- Time Period
 
-Tools & Technologies
-Tool
+### Tools & Technologies
+**Tool and Purpose**
 
-Purpose
+Power BI   - Data visualization & dashboard creation
 
-Power BI
+Power Query - Data transformation & cleaning
 
-Data visualization & dashboard creation
+DAX  - KPI calculations & measures
 
-Power Query
+Excel / CSV - Data source
 
-Data transformation & cleaning
-
-DAX
-
-KPI calculations & measures
-
-Excel / CSV
-
-Data source
-
-HR Analytics
-
-Business domain
-
-Dashboard Pages
+HR Analytics - Business domain
 
 
-1. Positions Dashboard
+## Dashboard Pages
+
+### 1. Positions Dashboard
+
+
+
+
+
+
+
 
 
 Focuses on:
 
-Open positions
+- Open positions
 
-Hiring progress
+- Hiring progress
 
-Department-wise hiring
+- Department-wise hiring
 
-Position timelines
+- Position timelines
 
+**Insights Included**
 
+- Hiring completion rate
 
-Insights Included
-Hiring completion rate
+- Positions vs hires
 
-Positions vs hires
+- Hiring backlog
 
-Hiring backlog
+- Business-wise recruitment distribution
 
-Business-wise recruitment distribution
-
-2. Interviews Dashboard
+### 2. Interviews Dashboard
 
 
 Focuses on:
 
-Candidate pipeline tracking
+- Candidate pipeline tracking
 
-Interview stages
+- Interview stages
 
-Source effectiveness
+- Source effectiveness
 
-Candidate status monitoring
+- Candidate status monitoring
+
+**Insights Included**
+
+- Candidate sources
+
+- Interview progress
+
+- Joining status
+
+- Candidate qualification tracking
 
 
-
-Insights Included
-Candidate sources
-
-Interview progress
-
-Joining status
-
-Candidate qualification tracking
-
-Data Model
-
+## Data Model
 
 The dashboard uses a relational HR recruitment dataset containing:
 
-Candidate information
+- Candidate information
 
-Job positions
+- Job positions
 
-Recruiter data
+- Recruiter data
 
-Hiring status
+- Hiring status
 
-Department records
+- Department records
 
-Source channels
+- Source channels
 
-Timeline metrics
+- Timeline metrics
+
+**Example Fields**
+
+- Req ID
+
+- Position Title
+
+- Department
+
+- Recruiter
+
+- Candidate Name
+
+- Status
+
+- Applications
+
+- Hires
+
+- Open Days
+
+- Joining Date
+
+### KPIs Implemented
+|KPI                        |     Description     |
+---------------------------------------------------------------
 
 
-
-Example Fields
-Req ID
-
-Position Title
-
-Department
-
-Recruiter
-
-Candidate Name
-
-Status
-
-Applications
-
-Hires
-
-Open Days
-
-Joining Date
-
-KPIs Implemented
-KPI
-
-Description
 
 Hiring Completion %
 
