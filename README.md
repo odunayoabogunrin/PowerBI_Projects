@@ -156,16 +156,15 @@ Users can dynamically filter data by:
 
 ### Tools & Technologies
 **Tool and Purpose**
+| Tool                     | Purpose                                    |
+|------------------------- |--------------------------------------------|
+| Power BI                 | Data visualization & dashboard creation    |
+| Power Query              | Data transformation & cleaning             |
+| DAX                      | KPI calculations & measures                |
+| Excel / CSV              | Data source                                |
+| HR Analytics             | Business domain                            |
+ 
 
-Power BI   - Data visualization & dashboard creation
-
-Power Query - Data transformation & cleaning
-
-DAX  - KPI calculations & measures
-
-Excel / CSV - Data source
-
-HR Analytics - Business domain
 
 
 ## Dashboard Pages
@@ -265,144 +264,118 @@ The dashboard uses a relational HR recruitment dataset containing:
 - Joining Date
 
 ### KPIs Implemented
-|KPI                        |     Description     |
----------------------------------------------------------------
+| KPI                      | Description                                |
+|------------------------- |--------------------------------------------|
+| Hiring Completion %      | Measures completed hires against target    |
+| Total Applications       | Total candidate applications received      |
+| Total Hires              | Successful hires completed                 |
+| Open Positions           | Remaining positions to fill                |
+| Balance Hires            | Difference between target and actual hires |
+| Source Effectiveness     | Source Effectiveness                       |
 
 
 
-Hiring Completion %
 
-Measures completed hires against target
-
-Total Applications
-
-Total candidate applications received
-
-Total Hires
-
-Successful hires completed
-
-Open Positions
-
-Remaining positions to fill
-
-Balance Hires
-
-Difference between target and actual hires
-
-Source Effectiveness
-
-Performance of recruitment platforms
-
-Skills Demonstrated
-
+### Skills Demonstrated
 
 This project demonstrates expertise in:
 
-HR Analytics
+- HR Analytics
 
-Dashboard Design
+- Dashboard Design
 
-Data Storytelling
+- Data Storytelling
 
-KPI Development
+- KPI Development
 
-DAX Calculations
+- DAX Calculations
 
-Data Cleaning
+- Data Cleaning
 
-Business Intelligence
+- Business Intelligence
 
-Interactive Reporting
+- Interactive Reporting
 
-Recruitment Analytics
+- Recruitment Analytics
 
-Business Impact
-
+### Business Impact
 
 This dashboard can help organizations:
 
-Reduce hiring delays
+- Reduce hiring delays
 
-Improve recruiter accountability
+- Improve recruiter accountability
 
-Optimize recruitment channels
+- Optimize recruitment channels
 
-Monitor hiring performance centrally
+- Monitor hiring performance centrally
 
-Increase recruitment efficiency
+- Increase recruitment efficiency
 
-Support workforce planning decisions
+- Support workforce planning decisions
 
-Future Improvements
+### Future Improvements
 
+- Potential enhancements include:
 
-Potential enhancements include:
+- Predictive hiring analytics
 
-Predictive hiring analytics
+- AI-powered recruitment forecasting
 
-AI-powered recruitment forecasting
+- Attrition integration
 
-Attrition integration
+- Diversity hiring metrics
 
-Diversity hiring metrics
+- Automated alerts
 
-Automated alerts
+- Real-time HR database integration
 
-Real-time HR database integration
+**How to Use**
+- Clone the repository
 
-How to Use
-Clone the repository
+- Open the .pbix file in Power BI Desktop
 
-Open the .pbix file in Power BI Desktop
+- Refresh the dataset if required
 
-Refresh the dataset if required
+- Interact with filters and visuals
 
-Interact with filters and visuals
-
-Use Cases
-
+### Use Cases
 
 This dashboard is useful for:
 
-HR Teams
+- HR Teams
 
-Talent Acquisition Teams
+- Talent Acquisition Teams
 
-Recruitment Agencies
+- Recruitment Agencies
 
-Workforce Planning
+- Workforce Planning
 
-HR Business Partners
+- HR Business Partners
 
-Executive Leadership
+- Executive Leadership
 
-Project Highlights for Portfolio
-Designed a multi-page interactive HR analytics dashboard in Power BI
+## Project Highlights for Portfolio
 
-Built KPI-driven recruitment monitoring solution
+- Designed a multi-page interactive HR analytics dashboard in Power BI
 
-Implemented DAX measures for hiring analytics
+- Built KPI-driven recruitment monitoring solution
 
-Developed interactive drill-down reporting experience
+- Implemented DAX measures for hiring analytics
 
-Analyzed recruitment funnel and sourcing effectiveness
+- Developed interactive drill-down reporting experience
 
-Enabled business users to monitor hiring performance in real time
+- Analyzed recruitment funnel and sourcing effectiveness
 
-Author
+- Enabled business users to monitor hiring performance in real time
+
+  
+
+**Author**
+
+**Odunayo Abogunrin**
+
+*Data Analyst | Business Intelligence Analyst | HR Analytics* 
 
 
-Odunayo Abogunrin
-
-Data Analyst | Business Intelligence Analyst | HR Analytics 
-
-
-
-Connect With Me
-LinkedIn: Add your LinkedIn profile
-
-Portfolio: Add your portfolio link
-
-Email: Add your professional email
 
